@@ -13,6 +13,6 @@ public class MainActivity extends AppCompatActivity {
         // This is testing app for Criteo SDK integration
         // Test Test
 
-        // Test 0808  22222222222222
+        // Test 0808  3333333333333333333333333
     }
 }
