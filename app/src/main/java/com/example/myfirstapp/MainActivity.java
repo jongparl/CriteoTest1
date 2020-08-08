@@ -1,7 +1,7 @@
 package com.example.myfirstapp;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -13,6 +13,6 @@ public class MainActivity extends AppCompatActivity {
         // This is testing app for Criteo SDK integration
         // Test Test
 
-        // Test 0808
+        // Test 0808  22222222222222
     }
 }
